@@ -58,21 +58,4 @@
 111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
 111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
 111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-`</field><data>{"commentRefs":[],"fieldData":{"img":"D51~U2a{(755GxshjZH,"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="1xz)Um6lcqpK%!kR9Y3s"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="$TqHG]G6ryC:UQk^[|cc"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><shadow type="variables_get" id="m1b?zyt!`Z:.-@rmMQ9a"><field name="VAR" id="|-q;nI]pI4*/AzRHr_Md">mySprite20210812T021422980Z</field></shadow></value><next><block type="variables_set" id="l!^B}#fD7yLV4omb,LU/"><field name="VAR" id="+Kl%X]+%%c,7EuVhIj$}">mySprite2</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="qlwbMC^1;|f/60m!cZTs"><value name="img"><shadow type="screen_image_picker" id="]fZ`hE:t|S%s9F!l5wpJ"><field name="img">img`
-. . . b b b b b b b b b . . . . 
-. . b 1 d d d d d d d 1 b . . . 
-. b 1 1 1 1 1 1 1 1 1 1 1 b . . 
-. b d b c c c c c c c b d b . . 
-. b d c 6 6 6 6 6 6 6 c d b . . 
-. b d c 6 d 6 6 6 6 6 c d b . . 
-. b d c 6 6 6 6 6 6 6 c d b . . 
-. b d c 6 6 6 6 6 6 6 c d b . . 
-. b d c 6 6 6 6 6 6 6 c d b . . 
-. b d c c c c c c c c c d b . . 
-. c b b b b b b b b b b b c . . 
-c b c c c c c c c c c c c b c . 
-c 1 d d d d d d d d d d d 1 c . 
-c 1 d 1 1 d 1 1 d 1 1 d 1 1 c . 
-c b b b b b b b b b b b b b c . 
-c c c c c c c c c c c c c c c . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"]fZ`hE:t|S%s9F!l5wpJ"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="^vTPsQ{I.z@)yw[R+P:v"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></next></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"D51~U2a{(755GxshjZH,"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="1xz)Um6lcqpK%!kR9Y3s"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="$TqHG]G6ryC:UQk^[|cc"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><shadow type="variables_get" id="m1b?zyt!`Z:.-@rmMQ9a"><field name="VAR" id="|-q;nI]pI4*/AzRHr_Md">mySprite20210812T021422980Z</field></shadow></value></block></next></block></next></block></statement></block></xml>
